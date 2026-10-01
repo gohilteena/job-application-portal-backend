@@ -33,6 +33,12 @@ const health: express.RequestHandler = (_req, res) => {
     },
   });
 };
+app.get("/", (_req, res) => {
+  res.json({
+    success: true,
+    message: "Job Application Portal API is running",
+  });
+});
 app.get('/health', health);
 app.get('/api/health', health);
 
