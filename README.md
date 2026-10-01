@@ -2,8 +2,8 @@
 
 A role-based REST API for a job portal. **Job seekers** manage a profile, upload resumes and apply for jobs. **Recruiters** manage a company, post jobs and review applications.
 
-- **Live API:** https://job-application-portal-backend-qr2t.onrender.com
-- **Health check:** https://job-application-portal-backend-qr2t.onrender.com/health
+- **Live API:** [https://job-application-portal-backend-qr2t.onrender.com](https://job-application-portal-backend-zu9q.onrender.com/)
+- **Health check:** [https://job-application-portal-backend-qr2t.onrender.com/health](https://job-application-portal-backend-zu9q.onrender.com/health)
 - **Database:** MongoDB Atlas
 
 > Render's free tier sleeps when idle; the first request can take ~30 s.
